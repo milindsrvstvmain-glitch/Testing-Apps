@@ -1,0 +1,6 @@
+{
+  "name": "Polyglot Master",
+  "description": "Learn up to three languages side-by-side with native pronunciation and interactive Duolingo-style lessons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

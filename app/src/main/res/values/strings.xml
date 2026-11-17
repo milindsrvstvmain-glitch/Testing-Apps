@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Polyglot Master</string>
+    <string name="welcome_title">Welcome to Polyglot Master!</string>
+    <string name="welcome_subtitle">Learn up to 3 languages side-by-side with native audio pronunciation.</string>
+    <string name="username_label">Your Name</string>
+    <string name="username_placeholder">e.g. Alex, Maya, Jordan</string>
+    <string name="continue_cta">Continue</string>
+    <string name="select_languages_title">Which languages would you like to learn?</string>
+    <string name="select_languages_subtitle">Choose up to 3 languages to practice together.</string>
+    <string name="native_language_title">What is your native language?</string>
+    <string name="native_language_subtitle">We\'ll display prompts in your native language at the top of each lesson.</string>
+    <string name="start_learning_cta">Start Learning!</string>
+    <string name="tap_to_hear">Tap to hear native voice</string>
+    <string name="slow_audio">Slow 0.7x</string>
+    <string name="next_phrase">Next Phrase</string>
+    <string name="prev_phrase">Previous</string>
+    <string name="practice_quiz">Practice Quiz</string>
+</resources>
